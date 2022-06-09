@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ehsanul Haque
 - 👀 I’m interested in Database,problem solving, programming
-- 🌱 I’m currently learning SQL,Python
+- 🌱 I’m currently learning SQL,Python,Tableau
 - 💞️ I’m looking to collaborate on ...
 - 📫 My contact email 'ehsanulrabib@gmail.com'
 
